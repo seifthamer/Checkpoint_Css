@@ -1,0 +1,42 @@
+h1
+{ color: rgb(43, 226, 55);
+
+}
+#black-bordered {
+    border: rgb(211, 203, 203) 5px dashed ; 
+}
+#title{
+    background-color: rgb(51, 0, 255);
+}
+body{
+    background-color: black;
+}
+#style
+{
+    background-color: rgb(75, 89, 42);
+}
+p{
+    display: inline ;
+    color: aqua;
+    font-weight: bold;
+}
+.titre{
+    color:rgb(243, 243, 246)
+  }
+  h1{
+    color: brown;
+  }
+  h1 + p {
+    font-weight: bold;
+    background-color: #333;
+    }
+    span{
+        display: block;
+        color: antiquewhite;
+        font-weight: bold;
+    }
+    div
+    { float: right;
+        
+
+    }
